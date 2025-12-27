@@ -79,6 +79,5 @@ Examples of measurable impact:
 - DAX calculations & measures
 - Data Model (Star Schema)
 - Power Query for ETL
-- Optional SQL-based cleaning
 
 ## Repository Structure
